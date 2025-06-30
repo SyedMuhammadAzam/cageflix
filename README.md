@@ -57,34 +57,30 @@ We use the OMDb API to fetch posters.
 Get a free OMDb API key
 
 Add to .env:
+    ```bash
+    NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here
+    Posters are fetched based on IMDb ID from movies.json
 
-```bash
-NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here
-Posters are fetched based on IMDb ID from movies.json
 
 ▶️ Getting Started
 Clone repo
-
-```bash
-git clone https://github.com/SyedMuhammadAzam/cageflix.git
-cd cageflix
+    ```bash
+    git clone https://github.com/SyedMuhammadAzam/cageflix.git
+    cd cageflix
 
 Install dependencies
-
-```bash
-npm install
+    ```bash
+    npm install
 
 Add environment variables
-
-```bash
-echo "NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here" > .env
+    ```bash
+    echo "NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here" > .env
 
 Generate movies.json
-
-```bash
-npx tsx scripts/generateMoviesJson.ts
-Run dev server
-npm run dev
+    ```bash
+    npx tsx scripts/generateMoviesJson.ts
+    Run dev server
+    npm run dev
 
 ⚠️ Known Limitations
 OMDb has rate limits (1,000 requests/day on free tier)
