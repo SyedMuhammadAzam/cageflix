@@ -29,45 +29,6 @@
 
 ---
 
-## 📁 Project Structure
-
-.
-├── data/
-│ ├── imdb/ # Raw IMDB .tsv datasets
-│ └── movies.json # Final preprocessed movie data
-│
-├── scripts/
-│ └── generateMoviesJson.ts # Script to generate movies.json
-│
-├── src/
-│ ├── app/
-│ │ ├── api/
-│ │ ├── layout.tsx
-│ │ ├── page.tsx
-│ │ └── globals.css
-│ │
-│ ├── components/
-│ │ └── ui/
-│ │ ├── Header.tsx
-│ │ ├── SubHeader.tsx
-│ │ ├── MovieCard.tsx
-│ │ ├── MovieCardSkeleton.tsx
-│ │ └── theme-provider.tsx
-│ │
-│ └── lib/
-│ └── utils.ts
-│
-├── .env
-├── next.config.ts
-├── package.json
-└── README.md
-
-markdown
-Copy
-Edit
-
----
-
 ## 🧪 Search Functionality
 
 Implemented with `Fuse.js`, the fuzzy search supports:
@@ -97,37 +58,30 @@ Get a free OMDb API key
 
 Add to .env:
 
-env
-Copy
-Edit
+```bash
 NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here
 Posters are fetched based on IMDb ID from movies.json
 
 ▶️ Getting Started
 Clone repo
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/SyedMuhammadAzam/cageflix.git
 cd cageflix
+
 Install dependencies
 
-bash
-Copy
-Edit
+```bash
 npm install
+
 Add environment variables
 
-bash
-Copy
-Edit
+```bash
 echo "NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here" > .env
+
 Generate movies.json
 
-bash
-Copy
-Edit
+```bash
 npx tsx scripts/generateMoviesJson.ts
 Run dev server
 npm run dev
