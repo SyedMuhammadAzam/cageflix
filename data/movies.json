@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "tt0086216",
+    "title": "Rumble Fish",
+    "year": "1983",
+    "runtime": "94",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "originalTitle": "Rumble Fish",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0086525",
+    "title": "Valley Girl",
+    "year": "1983",
+    "runtime": "99",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "originalTitle": "Valley Girl",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0086969",
+    "title": "Birdy",
+    "year": "1984",
+    "runtime": "120",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "originalTitle": "Birdy",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0087089",
+    "title": "The Cotton Club",
+    "year": "1984",
+    "runtime": "129",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "originalTitle": "The Cotton Club",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0087968",
+    "title": "Racing with the Moon",
+    "year": "1984",
+    "runtime": "108",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "originalTitle": "Racing with the Moon",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0090769",
+    "title": "The Boy in Blue",
+    "year": "1986",
+    "runtime": "97",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "originalTitle": "The Boy in Blue",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0091738",
+    "title": "Peggy Sue Got Married",
+    "year": "1986",
+    "runtime": "103",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "originalTitle": "Peggy Sue Got Married",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0093565",
+    "title": "Moonstruck",
+    "year": "1987",
+    "runtime": "102",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "originalTitle": "Moonstruck",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0093822",
+    "title": "Raising Arizona",
+    "year": "1987",
+    "runtime": "94",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "Raising Arizona",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0095722",
+    "title": "Never on Tuesday",
+    "year": "1988",
+    "runtime": "90",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "originalTitle": "Never on Tuesday",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0098577",
+    "title": "Vampire's Kiss",
+    "year": "1988",
+    "runtime": "103",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "originalTitle": "Vampire's Kiss",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0099575",
+    "title": "Fire Birds",
+    "year": "1990",
+    "runtime": "85",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "originalTitle": "Fire Birds",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0100762",
+    "title": "Time to Kill",
+    "year": "1989",
+    "runtime": "110",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "originalTitle": "Tempo di uccidere",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0100935",
+    "title": "Wild at Heart",
+    "year": "1990",
+    "runtime": "125",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Wild at Heart",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0101004",
+    "title": "Zandalee",
+    "year": "1991",
+    "runtime": "100",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "originalTitle": "Zandalee",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0104438",
+    "title": "Honeymoon in Vegas",
+    "year": "1992",
+    "runtime": "96",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "originalTitle": "Honeymoon in Vegas",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0105226",
+    "title": "Red Rock West",
+    "year": "1993",
+    "runtime": "98",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Red Rock West",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0106266",
+    "title": "Amos & Andrew",
+    "year": "1993",
+    "runtime": "96",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "Amos & Andrew",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0106684",
+    "title": "Deadfall",
+    "year": "1993",
+    "runtime": "98",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "Deadfall",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0109390",
+    "title": "A Century of Cinema",
+    "year": "1994",
+    "runtime": "72",
+    "genres": [
+      "Documentary"
+    ],
+    "originalTitle": "A Century of Cinema",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0109951",
+    "title": "Guarding Tess",
+    "year": "1994",
+    "runtime": "96",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "originalTitle": "Guarding Tess",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0110167",
+    "title": "It Could Happen to You",
+    "year": "1994",
+    "runtime": "101",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "originalTitle": "It Could Happen to You",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0111477",
+    "title": "Trapped in Paradise",
+    "year": "1994",
+    "runtime": "111",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "Trapped in Paradise",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0113552",
+    "title": "Kiss of Death",
+    "year": "1995",
+    "runtime": "101",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Kiss of Death",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0113627",
+    "title": "Leaving Las Vegas",
+    "year": "1995",
+    "runtime": "111",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "originalTitle": "Leaving Las Vegas",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0117500",
+    "title": "The Rock",
+    "year": "1996",
+    "runtime": "136",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "originalTitle": "The Rock",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0118880",
+    "title": "Con Air",
+    "year": "1997",
+    "runtime": "115",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Con Air",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0119094",
+    "title": "Face/Off",
+    "year": "1997",
+    "runtime": "138",
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "originalTitle": "Face/Off",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0120632",
+    "title": "City of Angels",
+    "year": "1998",
+    "runtime": "114",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "originalTitle": "City of Angels",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0120832",
+    "title": "Snake Eyes",
+    "year": "1998",
+    "runtime": "98",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "originalTitle": "Snake Eyes",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0134273",
+    "title": "8MM",
+    "year": "1999",
+    "runtime": "123",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "originalTitle": "8MM",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0163988",
+    "title": "Bringing Out the Dead",
+    "year": "1999",
+    "runtime": "121",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Bringing Out the Dead",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0187078",
+    "title": "Gone in 60 Seconds",
+    "year": "2000",
+    "runtime": "118",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Gone in Sixty Seconds",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0205314",
+    "title": "Inside the Golden Statue",
+    "year": "1998",
+    "runtime": "55",
+    "genres": [
+      "Documentary"
+    ],
+    "originalTitle": "Pesel Ha'Zahav",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0218967",
+    "title": "The Family Man",
+    "year": "2000",
+    "runtime": "125",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "originalTitle": "The Family Man",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0238112",
+    "title": "Captain Corelli's Mandolin",
+    "year": "2001",
+    "runtime": "131",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "originalTitle": "Captain Corelli's Mandolin",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0245562",
+    "title": "Windtalkers",
+    "year": "2002",
+    "runtime": "134",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "originalTitle": "Windtalkers",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0259324",
+    "title": "Ghost Rider",
+    "year": "2007",
+    "runtime": "110",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "originalTitle": "Ghost Rider",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0259929",
+    "title": "Christmas Carol: The Movie",
+    "year": "2001",
+    "runtime": "77",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "originalTitle": "Christmas Carol: The Movie",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0268126",
+    "title": "Adaptation.",
+    "year": "2002",
+    "runtime": "115",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "originalTitle": "Adaptation.",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0325805",
+    "title": "Matchstick Men",
+    "year": "2003",
+    "runtime": "116",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "Matchstick Men",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0366625",
+    "title": "Spaghetti Requiem",
+    "year": "2001",
+    "runtime": "56",
+    "genres": [
+      "Documentary"
+    ],
+    "originalTitle": "Italian Soldiers",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0368891",
+    "title": "National Treasure",
+    "year": "2004",
+    "runtime": "131",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "originalTitle": "National Treasure",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0375568",
+    "title": "Astro Boy",
+    "year": "2009",
+    "runtime": "94",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "originalTitle": "Astro Boy",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0384680",
+    "title": "The Weather Man",
+    "year": "2005",
+    "runtime": "102",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "originalTitle": "The Weather Man",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0399295",
+    "title": "Lord of War",
+    "year": "2005",
+    "runtime": "122",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "Lord of War",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0429589",
+    "title": "The Ant Bully",
+    "year": "2006",
+    "runtime": "88",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "originalTitle": "The Ant Bully",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0435705",
+    "title": "Next",
+    "year": "2007",
+    "runtime": "96",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "originalTitle": "Next",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0448011",
+    "title": "Knowing",
+    "year": "2009",
+    "runtime": "121",
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "originalTitle": "Knowing",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0450345",
+    "title": "The Wicker Man",
+    "year": "2006",
+    "runtime": "102",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "originalTitle": "The Wicker Man",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0465234",
+    "title": "National Treasure: Book of Secrets",
+    "year": "2007",
+    "runtime": "124",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "originalTitle": "National Treasure: Book of Secrets",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0469641",
+    "title": "World Trade Center",
+    "year": "2006",
+    "runtime": "129",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "originalTitle": "World Trade Center",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0479997",
+    "title": "Season of the Witch",
+    "year": "2011",
+    "runtime": "95",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "originalTitle": "Season of the Witch",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0481499",
+    "title": "The Croods",
+    "year": "2013",
+    "runtime": "98",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "originalTitle": "The Croods",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0805631",
+    "title": "Too Tough to Die: A Tribute to Johnny Ramone",
+    "year": "2006",
+    "runtime": "80",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "originalTitle": "Too Tough to Die: A Tribute to Johnny Ramone",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0814022",
+    "title": "Bangkok Dangerous",
+    "year": "2008",
+    "runtime": "99",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Bangkok Dangerous",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt0963966",
+    "title": "The Sorcerer's Apprentice",
+    "year": "2010",
+    "runtime": "109",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "originalTitle": "The Sorcerer's Apprentice",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt10690676",
+    "title": "Dark",
+    "year": "2017",
+    "runtime": "75",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Dark",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1071875",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": "2011",
+    "runtime": "96",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "originalTitle": "Ghost Rider: Spirit of Vengeance",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1095217",
+    "title": "Bad Lieutenant: Port of Call New Orleans",
+    "year": "2009",
+    "runtime": "122",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "originalTitle": "The Bad Lieutenant: Port of Call - New Orleans",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt11003218",
+    "title": "Pig",
+    "year": "2021",
+    "runtime": "92",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "originalTitle": "Pig",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt11291274",
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": "2022",
+    "runtime": "107",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "The Unbearable Weight of Massive Talent",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt11358390",
+    "title": "Renfield",
+    "year": "2023",
+    "runtime": "93",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "originalTitle": "Renfield",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1214962",
+    "title": "Seeking Justice",
+    "year": "2011",
+    "runtime": "105",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "originalTitle": "Seeking Justice",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1250777",
+    "title": "Kick-Ass",
+    "year": "2010",
+    "runtime": "117",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "Kick-Ass",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1274586",
+    "title": "Dying of the Light",
+    "year": "2014",
+    "runtime": "94",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Dying of the Light",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1462759",
+    "title": "Butcher's Crossing",
+    "year": "2022",
+    "runtime": "105",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "originalTitle": "Butcher's Crossing",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt14827638",
+    "title": "The Retirement Plan",
+    "year": "2023",
+    "runtime": "103",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "The Retirement Plan",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1502404",
+    "title": "Drive Angry",
+    "year": "2011",
+    "runtime": "104",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "originalTitle": "Drive Angry",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1552224",
+    "title": "Outcast",
+    "year": "2014",
+    "runtime": "99",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "originalTitle": "Outcast",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt16360004",
+    "title": "Spider-Man: Beyond the Spider-Verse",
+    "year": "2027",
+    "runtime": "\\N",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "originalTitle": "Spider-Man: Beyond the Spider-Verse",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1656186",
+    "title": "Stolen",
+    "year": "2012",
+    "runtime": "96",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Stolen",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt1674784",
+    "title": "Trespass",
+    "year": "2011",
+    "runtime": "91",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "originalTitle": "Trespass",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2005374",
+    "title": "The Frozen Ground",
+    "year": "2013",
+    "runtime": "105",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "The Frozen Ground",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2032572",
+    "title": "USS Indianapolis: Men of Courage",
+    "year": "2016",
+    "runtime": "128",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "originalTitle": "USS Indianapolis: Men of Courage",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt21942866",
+    "title": "Dream Scenario",
+    "year": "2023",
+    "runtime": "102",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "originalTitle": "Dream Scenario",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt21991654",
+    "title": "Sympathy for the Devil",
+    "year": "2023",
+    "runtime": "90",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "originalTitle": "Sympathy for the Devil",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt22939186",
+    "title": "Arcadian",
+    "year": "2024",
+    "runtime": "92",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "originalTitle": "Arcadian",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt23468450",
+    "title": "Longlegs",
+    "year": "2024",
+    "runtime": "101",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "originalTitle": "Longlegs",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2382396",
+    "title": "Joe",
+    "year": "2013",
+    "runtime": "117",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Joe",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2401807",
+    "title": "Rage",
+    "year": "2014",
+    "runtime": "92",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "originalTitle": "Tokarev",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2467046",
+    "title": "Left Behind",
+    "year": "2014",
+    "runtime": "110",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "originalTitle": "Left Behind",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt24818230",
+    "title": "Madden",
+    "year": "\\N",
+    "runtime": "\\N",
+    "genres": [
+      "Biography"
+    ],
+    "originalTitle": "Madden",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt24850708",
+    "title": "Gunslingers",
+    "year": "2025",
+    "runtime": "104",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "originalTitle": "Gunslingers",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2646218",
+    "title": "Was ich bin sind meine Filme - Teil 2... nach 30 Jahren",
+    "year": "2010",
+    "runtime": "98",
+    "genres": [
+      "Documentary"
+    ],
+    "originalTitle": "Was ich bin sind meine Filme - Teil 2... nach 30 Jahren",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt27706987",
+    "title": "Lords of War",
+    "year": "\\N",
+    "runtime": "\\N",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Lords of War",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt27813235",
+    "title": "The Surfer",
+    "year": "2024",
+    "runtime": "100",
+    "genres": [
+      "Thriller"
+    ],
+    "originalTitle": "The Surfer",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt2850386",
+    "title": "The Croods: A New Age",
+    "year": "2020",
+    "runtime": "95",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "originalTitle": "The Croods: A New Age",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt32304349",
+    "title": "The Carpenter's Son",
+    "year": "2025",
+    "runtime": "\\N",
+    "genres": [
+      "Horror"
+    ],
+    "originalTitle": "The Carpenter's Son",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt32604452",
+    "title": "The Prince",
+    "year": "\\N",
+    "runtime": "\\N",
+    "genres": [
+      "Drama"
+    ],
+    "originalTitle": "The Prince",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3481634",
+    "title": "Inconceivable",
+    "year": "2017",
+    "runtime": "105",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Inconceivable",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3687398",
+    "title": "The Runner",
+    "year": "2015",
+    "runtime": "90",
+    "genres": [
+      "Drama"
+    ],
+    "originalTitle": "The Runner",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3696140",
+    "title": "Hollywood Waterloo",
+    "year": "1994",
+    "runtime": "89",
+    "genres": [
+      "Documentary"
+    ],
+    "originalTitle": "Hollywood Waterloo",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3733774",
+    "title": "The Trust",
+    "year": "2016",
+    "runtime": "92",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "The Trust",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3733778",
+    "title": "Pay the Ghost",
+    "year": "2015",
+    "runtime": "94",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "originalTitle": "Pay the Ghost",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt3758162",
+    "title": "A Score to Settle",
+    "year": "2019",
+    "runtime": "103",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "originalTitle": "A Score to Settle",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt4054654",
+    "title": "Dog Eat Dog",
+    "year": "2016",
+    "runtime": "93",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Dog Eat Dog",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt4382824",
+    "title": "Army of One",
+    "year": "2016",
+    "runtime": "92",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "originalTitle": "Army of One",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt4976192",
+    "title": "211",
+    "year": "2018",
+    "runtime": "86",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "originalTitle": "211",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt5073642",
+    "title": "Color Out of Space",
+    "year": "2019",
+    "runtime": "111",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "originalTitle": "Color Out of Space",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt5460530",
+    "title": "Vengeance: A Love Story",
+    "year": "2017",
+    "runtime": "99",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "originalTitle": "Vengeance: A Love Story",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt5462326",
+    "title": "Mom and Dad",
+    "year": "2017",
+    "runtime": "86",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "originalTitle": "Mom and Dad",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt5580536",
+    "title": "Arsenal",
+    "year": "2017",
+    "runtime": "92",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "originalTitle": "Arsenal",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt5792656",
+    "title": "Running with the Devil",
+    "year": "2019",
+    "runtime": "100",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Running with the Devil",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt6083648",
+    "title": "Looking Glass",
+    "year": "2018",
+    "runtime": "103",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "originalTitle": "Looking Glass",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt6143568",
+    "title": "The Humanity Bureau",
+    "year": "2017",
+    "runtime": "95",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "originalTitle": "The Humanity Bureau",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt6372694",
+    "title": "Prisoners of the Ghostland",
+    "year": "2021",
+    "runtime": "103",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "originalTitle": "Prisoners of the Ghostland",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt6763730",
+    "title": "Becoming Iconic",
+    "year": "2018",
+    "runtime": "85",
+    "genres": [
+      "Biography"
+    ],
+    "originalTitle": "Becoming Iconic",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt6998518",
+    "title": "Mandy",
+    "year": "2018",
+    "runtime": "121",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "originalTitle": "Mandy",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt7295450",
+    "title": "Between Worlds",
+    "year": "2018",
+    "runtime": "90",
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "originalTitle": "Between Worlds",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt7394816",
+    "title": "Primal",
+    "year": "2019",
+    "runtime": "97",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "originalTitle": "Primal",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt8114980",
+    "title": "Willy's Wonderland",
+    "year": "2021",
+    "runtime": "88",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "originalTitle": "Willy's Wonderland",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt8380776",
+    "title": "Grand Isle",
+    "year": "2019",
+    "runtime": "97",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "originalTitle": "Grand Isle",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt8535180",
+    "title": "Kill Chain",
+    "year": "2019",
+    "runtime": "91",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "originalTitle": "Kill Chain",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt8593824",
+    "title": "The Old Way",
+    "year": "2023",
+    "runtime": "95",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "originalTitle": "The Old Way",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt9351746",
+    "title": "Love, Antosha",
+    "year": "2019",
+    "runtime": "92",
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "originalTitle": "Love, Antosha",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  },
+  {
+    "id": "tt9624766",
+    "title": "Jiu Jitsu",
+    "year": "2020",
+    "runtime": "102",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "originalTitle": "Jiu Jitsu",
+    "isAdult": false,
+    "endYear": "\\N",
+    "nconst": "nm0000115",
+    "category": "actor"
+  }
+]
