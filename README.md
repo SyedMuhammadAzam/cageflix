@@ -1,6 +1,6 @@
 # 🎬 Cageflix — The Nicolas Cage Movie Library
 
-**Cageflix** is a Netflix-style movie catalog featuring the unforgettable works of **Nicolas Cage**. Built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**, this app uses IMDB data processed into JSON and supports fuzzy searching.
+**Cageflix** is a Netflix-style movie catalog featuring the unforgettable works of **Nicolas Cage**. Built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, this app uses IMDB data processed into JSON and supports fuzzy searching.
 
 ## 🌐 Live Demo: https://cageflix-alpha.vercel.app/
 
